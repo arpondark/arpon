@@ -1,6 +1,6 @@
 # arpon
 
-Talk like smart caveman. Same brain, fewer tokens.
+Talk like smart. Same brain, fewer tokens.
 
 ## What it does
 
